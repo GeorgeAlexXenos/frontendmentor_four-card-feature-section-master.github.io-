@@ -54,7 +54,7 @@ header {
   margin: 0 auto;
   border-top: 4px solid var(--cyan);
   border-radius: 5px;
-  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.322);
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.185);
   display: flex;
   flex-direction: column;
 }
@@ -64,7 +64,7 @@ header {
   margin: 0 auto;
   border-top: 4px solid var(--red);
   border-radius: 5px;
-  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.322);
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.185);
   display: flex;
   flex-direction: column;
 }
@@ -74,7 +74,7 @@ header {
   margin: 0 auto;
   border-top: 4px solid var(--orange);
   border-radius: 5px;
-  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.322);
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.185);
   display: flex;
   flex-direction: column;
 }
@@ -84,7 +84,7 @@ header {
   margin: 0 auto;
   border-top: 4px solid var(--blue);
   border-radius: 5px;
-  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.322);
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.185);
   display: flex;
   flex-direction: column;
 }
