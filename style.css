@@ -92,9 +92,11 @@ header {
 /* -----------headings----------- */
 h1 {
   font-weight: 200;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
 }
 h2 {
+  font-size: 1.5rem;
+
   font-weight: 600;
 }
 h3 {
@@ -105,10 +107,12 @@ h3 {
 /* -----------paragraphs----------- */
 p {
   margin: 0 1.6rem;
+  font-size: 1.05rem;
 }
 header p {
-  margin: 0.3rem;
+  margin: 0.3rem auto;
   text-align: center;
+  max-width: 90%;
 }
 
 /* -----------images----------- */
@@ -137,7 +141,8 @@ img {
   }
   header p {
     width: 60%;
-    margin: 1.3rem auto;
+    margin: 1.4rem auto;
+    font-size: 1.2rem;
   }
   .first,
   .fourth {
@@ -145,5 +150,23 @@ img {
   }
   body {
     margin: 0;
+  }
+  h1 {
+    font-size: 2.5rem;
+  }
+  h2 {
+    font-size: 2.5rem;
+  }
+}
+
+@media only screen and (max-width: 359px) {
+  h1 {
+    font-size: 1.4rem;
+  }
+  h2 {
+    font-size: 1.4rem;
+  }
+  p {
+    font-size: 1rem;
   }
 }
