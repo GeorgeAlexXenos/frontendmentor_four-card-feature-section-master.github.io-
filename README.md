@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- [solution URL here](https://github.com/GeorgeAlexXenos/frontendmentor_four-card-feature-section-master.github.io-)
+- [live site URL here](https://georgealexxenos.github.io/frontendmentor_four-card-feature-section-master.github.io-/)
 
 ## My process
 
